@@ -4,7 +4,7 @@
     {
         public string CheckFizzBuzz(int number)
         {
-            return string.Empty;
+            return number.ToString();
         }
     }
 }
